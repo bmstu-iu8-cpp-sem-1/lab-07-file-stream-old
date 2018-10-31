@@ -1,7 +1,7 @@
 # Лабораторная работа 7
 
 ## Теоретическая часть
-Ознакомьтесь с курсом статей https://metanit.com/cpp/tutorial/8.2.php и https://metanit.com/cpp/tutorial/8.3.php
+Ознакомьтесь с циклом статей https://metanit.com/cpp/tutorial/8.2.php и https://metanit.com/cpp/tutorial/8.3.php
 
 
 ### Инструкция
